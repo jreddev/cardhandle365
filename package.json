@@ -2,7 +2,8 @@
   "homepage": "https://jreddev.github.io/cardhandle365",
   "scripts":{
 	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build" 
+	"deploy": "gh-pages -d build",
+	"build": "react-scripts build",
   },
   "name": "cardhandle365",
   "lockfileVersion": 3,
