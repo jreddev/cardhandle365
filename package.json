@@ -1,4 +1,4 @@
-"homepage": "https://jreddev.github.io/cardhandle365"
+"homepage":"https://jreddev.github.io/cardhandle365"
 "scripts":{
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build" 
