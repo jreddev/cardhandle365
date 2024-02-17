@@ -100,10 +100,10 @@ const App = () => {
           display: "flex",
           //textAlign: "center",
           fontFamily: "cursive",
-          alignItems: "center",
+          //alignItems: "center",
         }}
       >
-        <div class="title" style={{ flex: 5 }}>
+        <div class="title" style={{ flex: 1 }}>
           <h1>Memes</h1>
         </div>
         <div class="category" style={{ flex: 1 }}>
