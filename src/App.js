@@ -103,7 +103,7 @@ const App = () => {
           //alignItems: "center",
         }}
       >
-        <div class="title" style={{ flex: 1, marginLeft: 10px }}>
+        <div class="title" style={{ flex: 1, marginLeft: 10}}>
           <h1>Memes</h1>
         </div>
         <div class="category" style={{ flex: 1 }}>
