@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cardhandle365/static/js/main.6cb7fe8c.js",
+    "main.js": "/cardhandle365/static/js/main.7ea070a2.js",
     "index.html": "/cardhandle365/index.html",
-    "main.6cb7fe8c.js.map": "/cardhandle365/static/js/main.6cb7fe8c.js.map"
+    "main.7ea070a2.js.map": "/cardhandle365/static/js/main.7ea070a2.js.map"
   },
   "entrypoints": [
-    "static/js/main.6cb7fe8c.js"
+    "static/js/main.7ea070a2.js"
   ]
 }
