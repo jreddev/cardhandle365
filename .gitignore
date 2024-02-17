@@ -7,3 +7,5 @@
 /node_modules/.cache/babel-loader
 /.vs
 /node_modules
+/build/static/js
+/build
