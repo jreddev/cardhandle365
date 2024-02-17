@@ -9,4 +9,6 @@
 /.gitignore
 /.vs/cardhandle365/FileContentIndex/b85d2c10-1e47-4f99-a456-a8a1753047ea.vsidx
 *.vsidx
-/node_modules/.cache/babel-loader
+/node_modules
+/build
+/.vs
