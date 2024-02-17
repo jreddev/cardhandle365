@@ -100,7 +100,7 @@ const App = () => {
           display: "flex",
           textAlign: "center",
           fontFamily: "cursive",
-          alignItems: "center",
+          //alignItems: "center",
         }}
       >
         <div class="title" style={{ flex: 1, padding: 10}}>
