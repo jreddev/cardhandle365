@@ -98,7 +98,7 @@ const App = () => {
         class="category-dropdowns"
         style={{
           display: "flex",
-          textAlign: "center",
+          //textAlign: "center",
           fontFamily: "cursive",
           alignItems: "center",
         }}
