@@ -106,14 +106,14 @@ const App = () => {
         <div class="title" style={{ flex: 1 }}>
           <h1>Memes</h1>
         </div>
-        <div class="category" style={{ flex: 3 }}>
+        <div class="category" style={{ flex: 1 }}>
           <CategoryDropdown
             categories={["All", "Sports", "Inspiration", "Technology"]}
             selectedCategory={selectedCategory}
             onCategoryChange={handleCategoryChange}
           />
         </div>
-        <div class="subcategory" style={{ flex: 3 }}>
+        <div class="subcategory" style={{ flex: 1 }}>
           {selectedCategory !== "All" && (
             <SubcategoryDropdown
               categories={getSubcategories(selectedCategory)}
